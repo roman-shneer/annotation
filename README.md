@@ -20,3 +20,11 @@ python app.py
 
 
 
+
+<br/><br/><br/><br/><br/>
+
+***Example of image transcriptions***
+
+python transcription.py
+
+<img width="1936" height="733" alt="image" src="https://github.com/user-attachments/assets/5b3417bd-1b7f-401c-a7fc-3e1b39e70173" />
